@@ -1,0 +1,16 @@
+{
+    "load": "1",
+    "verified": "2",
+    "error": "3",
+    "info": "4",
+    "music": "5",
+    "queue": "6",
+    "success": "7",
+    "music1": "8",
+    "fun": "9",
+    "chatbot": "10",
+    "image": "11",
+    "anime": "12",
+    "nsfw": "13",
+    "other": "14"
+}
